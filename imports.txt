@@ -1,0 +1,12 @@
+#File Imports - Phyton Modules necessários para rodar o código.
+
+
+
+pip install shodan
+pip install requests
+
+
+OR
+
+easy_install requests
+easy_install shodan
